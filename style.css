@@ -59,7 +59,7 @@ body {
     transform-style: preserve-3d;
     cursor: pointer;
     position: relative;
-    flex: 1 0 100px;
+    flex: 1 0 200px;
     margin: 0 10px 20px;
 }
 .memory-game-blocks .game-block .front {
